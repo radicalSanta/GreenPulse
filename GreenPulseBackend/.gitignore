@@ -1,0 +1,27 @@
+# Environment / secrets
+app/.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+
+# Compiled Python
+*.py[cod]
+
+# Local SQLite/cache
+app/*.sqlite
+app/*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
