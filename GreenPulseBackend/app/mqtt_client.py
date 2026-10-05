@@ -9,7 +9,7 @@ from model import SensorReading
 from connection_manager import manager
 
 
-MQTT_BROKER = os.getenv("MQTT_BROKER", "10.169.12.174")
+MQTT_BROKER = os.getenv("MQTT_BROKER", "192.168.2.229")
 MQTT_PORT = int(os.getenv("MQTT_PORT", "1883"))
 MQTT_TOPIC = os.getenv("MQTT_TOPIC", "greenpulse/telemetry")
 
