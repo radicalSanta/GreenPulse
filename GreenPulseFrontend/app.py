@@ -8,7 +8,7 @@ import pydeck as pdk
 # GreenPulse Streamlit Dashboard
 # ============================================================
 
-API_BASE_URL = "https://think-although-sperm-wiki.trycloudflare.com"
+API_BASE_URL = "https://procedures-experience-blast-connected.trycloudflare.com"
 REFRESH_SECONDS = 5
 
 st.set_page_config(
