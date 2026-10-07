@@ -8,7 +8,7 @@ import pydeck as pdk
 # GreenPulse Streamlit Dashboard
 # ============================================================
 
-API_BASE_URL = "https://yours-toolbox-mil-revision.trycloudflare.com"
+API_BASE_URL = "https://stars-refresh-clubs-solar.trycloudflare.com"
 REFRESH_SECONDS = 5
 
 st.set_page_config(
